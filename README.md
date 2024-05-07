@@ -1,6 +1,6 @@
 ### ¡Hola a todos, soy Saúl Gustavo!👋 
-Soy un estudiante autodidacta enfoncado en el Desarrollo Web Front-End, llevo un constante aprendizaje para mejorar mis habilidades y 
-destacar en el desarrollo web.
+Soy un estudiante autodidacta enfocado en el Desarrollo Web Front-End, llevo un constante aprendizaje para mejorar mis habilidades y destacar en el desarrollo web. 
+Me gusta crear y aprender nuevas tecnologías para destarcar. 
 
 - **Front-End Development**:
 
@@ -8,6 +8,17 @@ destacar en el desarrollo web.
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- **Control de Versiones**:
+
+   <!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)-->
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📫 How to reach me:
+
+<a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/saul-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Saul-Gustavo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <!--
 **Saul-Gustavo/Saul-Gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
