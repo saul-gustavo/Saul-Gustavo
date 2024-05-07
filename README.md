@@ -1,11 +1,13 @@
-### Hi there 👋
-
+### ¡Hola a todos, soy Saúl Gustavo!👋 
+Soy un estudiante autodidacta enfoncado en el Desarrollo Web Front-End, llevo un constante aprendizaje para mejorar mis habilidades y 
+destacar en el desarrollo web.
 
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 **Saul-Gustavo/Saul-Gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
