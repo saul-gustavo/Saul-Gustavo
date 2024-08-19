@@ -1,4 +1,4 @@
-### ¡Hola a todos, soy Saúl Gustavo!👋 
+### ¡Hola, soy Saúl Gustavo!👋 
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para mejorar mis habilidades y destacar en el desarrollo web. 
 Me gusta crear y aprender nuevas tecnologías.
 
