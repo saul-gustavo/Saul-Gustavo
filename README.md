@@ -2,8 +2,6 @@
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para mejorar mis habilidades y destacar en el desarrollo web. 
 Me gusta crear y aprender nuevas tecnologías. 
 
-![Perfil](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F558587160039776099%2F&psig=AOvVaw0aIf1zoXiFDLGD_x1YXOSS&ust=1725144835095000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjKnYPonYgDFQAAAAAdAAAAABAE)
-
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/Saul-Gustavo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
