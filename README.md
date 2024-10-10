@@ -17,6 +17,7 @@ Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
 
+<!--![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)-->
 
 
 
