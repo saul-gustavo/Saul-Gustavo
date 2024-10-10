@@ -11,13 +11,16 @@ Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## Contactame
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
 
-<!--![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)-->
+<!--![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)
+   ![Figma]<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="25" />
+-->
 
 
 
