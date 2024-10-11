@@ -33,11 +33,12 @@
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
+   <br />
+      <img src="https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="saul gustavo stats" />
+   <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
 </div>
-
-![saul-gustavo's Stats](https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-![saul-gustavo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true)
 
 
 
