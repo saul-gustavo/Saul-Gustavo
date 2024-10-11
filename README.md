@@ -1,4 +1,9 @@
-# ¡Hola, soy Saúl Gustavo!👋 
+
+<p align="center">
+   <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/rampo.gif" alt="rampo gif" />
+</p>
+
+# ¡Hola, soy Saúl!👋 
 
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para mejorar mis habilidades y destacar en el desarrollo web. 
 Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
