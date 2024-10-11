@@ -15,7 +15,7 @@
 <p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma</p>
 
 
-<h2>**Front-End Habilidades**:</h2>
+<h3>**Front-End Habilidades**:</h3>
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +28,17 @@
 ## Contactame
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
+
+
+
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
+</div>
+
+![saul-gustavo's Stats](https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![saul-gustavo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true)
+
 
 
 <!--
@@ -45,7 +56,14 @@
       
       **Control de Versiones**:
       ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-|-->
+|
+
+![saul-gustavo's Stats](https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![saul-gustavo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=dracula&hide_border=true)
+![saul-gustavo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
+-->
    
 
 
