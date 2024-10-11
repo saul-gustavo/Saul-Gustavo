@@ -1,15 +1,21 @@
-
 <p align="center">
    <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/rampo.gif" alt="rampo gif" />
 </p>
 
-# ¡Hola, soy Saúl!👋 
+<p align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=F7740D&center=true&vCenter=true&width=450&lines=%C2%A1Hola+soy+Sa%C3%BAl!" alt="Typing SVG" />
+   </a>
+</p>
 
-Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para mejorar mis habilidades y destacar en el desarrollo web. 
-Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
+<p>
+   Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web. 
+</p>
+
+<p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma</p>
 
 
-**Front-End Habilidades**:
+<h2>**Front-End Habilidades**:</h2>
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,6 +28,11 @@ Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
 ## Contactame
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
+
+
+<!--
+<h1 align="center">¡Hola, soy Saúl!👋</h1> 
+-->
 
 <!--
   ![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)
