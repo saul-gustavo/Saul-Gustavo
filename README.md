@@ -18,18 +18,18 @@ Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
 
-<!--![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)
-   ![Figma]<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="25" />
--->
-
-
-
 <!--
-<a href="https://github.com/Saul-Gustavo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
--->
+  ![imagen](https://github.com/saul-gustavo/portafolio-saul/blob/main/images/Portafolio-Saul.png)
+      ![Figma]<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="25" />
+      <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/rampo.gif" alt="rampo gif" />
 
-   <!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  **Control de Versiones**:-->
+      <a href="https://github.com/Saul-Gustavo">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      
+      **Control de Versiones**:
+      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+|-->
    
 
 
