@@ -1,16 +1,20 @@
+<h1 align="center">¡Hola, soy Saúl!👋</h1>
+
 <p align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1500&color=F7740D&center=true&vCenter=true&width=450&lines=%C2%A1Hola+soy+Sa%C3%BAl!" alt="Typing SVG" />
-   </a>
+  <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+web+Frontend" alt="Typing SVG" />
+  </a>
 </p>
 
 <p>
    Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web. 
-   
 </p>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
+<p align="center">
+   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
+</p>
 
+   
 <p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI</p>
 
 
@@ -42,11 +46,15 @@
 
 
 <!--
-<h1 align="center">¡Hola, soy Saúl!👋</h1>
+
 
 <p align="center">
    <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/rampo.gif" alt="rampo gif" />
 </p>
+
+ <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1500&color=F7740D&center=true&vCenter=true&width=450&lines=%C2%A1Hola+soy+Sa%C3%BAl!" alt="Typing SVG" />
+   </a>
 
 -->
 
