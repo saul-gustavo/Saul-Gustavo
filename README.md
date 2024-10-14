@@ -11,7 +11,7 @@
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
 
-<p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño con Figma</p>
+<p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI</p>
 
 
 <h3>**Front-End Habilidades**:</h3>
