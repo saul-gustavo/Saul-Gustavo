@@ -38,8 +38,6 @@
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
    <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="saul gustavo stats" />
-   <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
 </div>
 
@@ -55,7 +53,7 @@
  <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1500&color=F7740D&center=true&vCenter=true&width=450&lines=%C2%A1Hola+soy+Sa%C3%BAl!" alt="Typing SVG" />
    </a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="saul gustavo stats" />
 -->
 
 <!--
