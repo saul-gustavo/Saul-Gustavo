@@ -12,11 +12,12 @@
 </p>
 
 <p>
-   Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web. 
+  Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Apasionado por el aprendizaje continuo y por aplicar conocimientos para mejorar la experiencia web. Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
 </p>
    
-<p> - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI</p>
-
+<h2>
+  - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI
+</h2>
 
 <h3>**Front-End Habilidades**:</h3>
 
@@ -32,9 +33,6 @@
 
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
 
-
-
-
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
    <br />
@@ -44,7 +42,7 @@
 
 
 <!--
-
+Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web.
 
 <p align="center">
    <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/rampo.gif" alt="rampo gif" />
