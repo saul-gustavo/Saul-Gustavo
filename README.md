@@ -1,8 +1,5 @@
 <div align="center">
   <h1 align="center">¡Hola, soy Saúl!👋</h1>
-  <p align="center">
-     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
-  </p>
 </div>
 
 <p align="center">
@@ -42,6 +39,12 @@
 
 
 <!--
+  Imagen de paloma
+  <p align="center">
+     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
+  </p>
+
+  
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web.
 
 <p align="center">
