@@ -31,12 +31,21 @@
 <a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="saul gustavo stats" />
-   <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 <!--
   Imagen de paloma
