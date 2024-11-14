@@ -13,7 +13,7 @@
 </div>
 
 <p>
-  Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Apasionado por el aprendizaje continuo y por aplicar conocimientos para mejorar la experiencia web. Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
+  Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Llevo un aprendizaje continuo y practico para aplicar mis conocimientos para mejorar la experiencia web. Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
 </p>
    
 <p>
