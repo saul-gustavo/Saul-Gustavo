@@ -8,14 +8,18 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/hollow-knight-lampara.gif" alt="hollow lampara"/>
+<div style="display: flex; align-items: center;">
+  
+  <div align="center">
+    <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/hollow-knight-lampara.gif" alt="hollow lampara"/>
+  </div>
+  
+  <p>
+  Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Llevo un aprendizaje continuo y practico para aplicar mis conocimientos para mejorar la experiencia web.    Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
+</p>
+
 </div>
 
-<p>
-  Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Llevo un aprendizaje continuo y practico para aplicar mis conocimientos para mejorar la experiencia web. Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
-</p>
-   
 <p>
   - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI
 </p>
