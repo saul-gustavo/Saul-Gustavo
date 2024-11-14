@@ -8,13 +8,18 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/saul-gustavo/portafolio-saul/blob/main/images/hollow-knight-lampara.gif" alt="hollow lampara"/>
+</div>
+
 <p>
   Soy un estudiante de Desarrollo Web Frontend con enfoque en la creación de interfaces minimalistas y funcionales. Apasionado por el aprendizaje continuo y por aplicar conocimientos para mejorar la experiencia web. Busco participar en proyectos innovadores donde pueda integrar diseño y tecnología para ofrecer soluciones efectivas. 
 </p>
    
-<h2>
+<p>
   - 🌱 Actualmente estoy aprendiendo JavaScript, React y Diseño UX/UI
-</h2>
+</p>
+<hr />
 
 <h3>**Front-End Habilidades**:</h3>
 
@@ -25,10 +30,11 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+<hr />
 ## Contactame
 
-<a href="https://twitter.com/Gust4av3txc01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px"></a>
+<a href="https://twitter.com/Gust4av3txc01"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:saulgustavo237@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <div align="center">
   <table>
@@ -48,6 +54,7 @@
 </div>
 
 <!--
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px">
   Imagen de paloma
   <p align="center">
      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
