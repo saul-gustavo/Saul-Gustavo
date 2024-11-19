@@ -51,13 +51,16 @@
       </td>
       <td>
         <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=saul-gustavo&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="saul gustavo stats" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
+
+
+ 
 <!--
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120px">
   Imagen de paloma
@@ -65,6 +68,7 @@
      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
   </p>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
   
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web.
 
