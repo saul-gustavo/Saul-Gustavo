@@ -38,9 +38,9 @@
 <hr />
 
 <h2>Contactame</h2>
-
-<a href="https://twitter.com/Gust4av3txc01"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:saulgustavo237@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<hr />
 
 <div align="center">
   <table>
@@ -59,7 +59,9 @@
   </table>
 </div>
 
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=saul-gustavo)
+
 
  
 <!--
@@ -68,7 +70,7 @@
   <p align="center">
      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>
   </p>
-
+<a href="https://twitter.com/Gust4av3txc01"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-gustavo&theme=shades-of-purple&hide_border=true" alt="saul gustavo stats" />
   
 Soy estudiante de Marketing Digital y Desarrollo Web Frontend. Me especializo en crear estrategias digitales efectivas y desarrollar interfaces de usuario atractivas y funcionales, llevo un constante aprendizaje para          mejorar mis habilidades y destacar en el desarrollo web.
